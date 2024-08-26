@@ -1,0 +1,626 @@
+2024-07-29T12:29:42.197Z error: Error connecting to the database: getaddrinfo ENOTFOUND root
+2024-07-29T12:30:03.599Z error: Error connecting to the database: getaddrinfo ENOTFOUND root
+2024-07-29T12:37:06.052Z error: Error connecting to the database: getaddrinfo ENOTFOUND localhost:3306
+2024-07-29T12:40:37.078Z error: Error connecting to the database: Access denied for user 'roots'@'localhost' (using password: YES)
+2024-07-29T12:41:14.081Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-29T12:41:47.844Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-29T12:48:02.927Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-29T12:57:03.087Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-29T12:59:18.694Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-29T13:05:47.606Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-29T13:07:43.219Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-29T13:18:04.087Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-30T05:12:35.172Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-30T08:59:33.020Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-30T09:00:06.325Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-30T09:09:26.868Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-30T09:10:02.117Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-30T09:11:19.457Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-30T09:11:54.342Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-30T09:12:05.738Z error: Error connecting to the database: Access denied for user 'root'@'localhost' (using password: YES)
+2024-07-30T09:24:30.633Z error: server.js
+2024-07-30T09:25:32.811Z error: server.js
+2024-07-30T09:26:45.605Z error: server.js
+2024-07-30T09:26:52.813Z error: server.js
+2024-07-30T09:28:12.462Z error: server.js
+2024-07-30T09:28:31.762Z error: server.js
+2024-07-30T09:28:57.010Z error: server.js
+2024-07-30T09:28:57.028Z error: server.js
+2024-07-30T09:39:05.187Z error: server.js
+2024-07-30T09:39:16.366Z error: server.js
+2024-07-30T09:39:24.495Z error: server.js
+2024-07-30T09:40:41.331Z error: server.js
+2024-07-30T09:40:41.332Z error: server.js
+2024-07-30T09:41:34.718Z error: server.js
+2024-07-30T09:41:34.737Z error: server.js
+2024-07-30T09:41:40.001Z error: server.js
+2024-07-30T09:41:40.008Z error: server.js
+2024-07-30T09:51:08.000Z error: server.js
+2024-07-30T09:51:52.049Z error: server.js
+2024-07-30T09:52:56.936Z error: server.js
+2024-07-30T09:56:24.234Z error: server.js
+2024-07-30T09:56:32.373Z error: "server.js","sequelize()","Unable to connect to the database: Access denied for user 'root'@'localhost' (using password: YES)"
+2024-07-30T10:00:59.103Z error: "server.js","sequelize()","Unable to connect to the database: Access denied for user 'root'@'localhost' (using password: YES)"
+2024-07-30T10:02:45.737Z error: "server.js","sequelize()","Unable to connect to the database: Access denied for user 'root'@'localhost' (using password: YES)"
+2024-07-30T10:04:57.662Z error: "server.js","sequelize()","Unable to connect to the database: Access denied for user 'root'@'localhost' (using password: YES)"
+2024-07-30T10:07:52.343Z info: "server.js","sequelize()","Connected to DB."
+2024-07-30T10:07:52.359Z info: "server.js","sequelize()","App running on port 5000..."
+2024-07-30T10:13:38.423Z info: "server.js","sequelize()","Connected to DB."
+2024-07-30T10:13:38.434Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T10:47:14.859Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T10:47:14.873Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T10:52:15.187Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T10:52:15.197Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T10:55:12.220Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T10:55:12.234Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T10:55:27.508Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T10:55:27.517Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T10:57:42.506Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T10:57:42.516Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T10:58:04.826Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T10:58:04.835Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T10:58:20.407Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T10:58:20.420Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T10:58:36.935Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T10:58:36.942Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T11:08:07.252Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:08:07.259Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T11:13:36.712Z error: "server.js","sequelize()","Unable to connect to the database: Access denied for user 'root'@'localhost' (using password: YES)"
+2024-08-06T11:14:21.957Z error: "server.js","sequelize()","Unable to connect to the database: Access denied for user 'root'@'localhost' (using password: YES)"
+2024-08-06T11:14:41.063Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:14:41.070Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T11:14:50.936Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:14:50.944Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T11:18:01.637Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:18:16.782Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:18:43.125Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:26:43.520Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:27:03.126Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:27:16.076Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:27:24.077Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:27:24.086Z info: "server.js","sequelize()","App running on port 5001..."
+2024-08-06T11:27:39.122Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:27:39.130Z info: "server.js","sequelize()","App running on port 5001..."
+2024-08-06T11:27:43.062Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:27:43.068Z info: "server.js","sequelize()","App running on port 5001..."
+2024-08-06T11:28:02.349Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:28:02.357Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T11:36:13.624Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:36:13.630Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T11:36:43.029Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:36:43.035Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T11:37:08.550Z info: "server.js","sequelize()","Connected to DB."
+2024-08-06T11:37:08.560Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-06T11:38:37.952Z info: Order created: order_OhbG7uN4oxpnAT
+2024-08-06T11:38:39.860Z info: Order created: order_OhbGA08LSnaW6P
+2024-08-06T11:38:45.655Z info: Order created: order_OhbGGKTQf4P323
+2024-08-06T11:38:47.169Z info: Order created: order_OhbGHykkbYVgnp
+2024-08-06T11:39:06.095Z info: Order created: order_OhbGcdx03EGxYq
+2024-08-06T11:41:14.867Z info: Order created: order_OhbItCpYKSh7Ke
+2024-08-07T06:46:27.175Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T06:46:27.187Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T06:49:50.269Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T06:49:50.278Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T06:50:23.060Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T06:50:23.075Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T06:50:36.932Z info: Order created: order_Ohuszs2zKAQMvb
+2024-08-07T06:50:41.243Z info: Order created: order_Ohut4ahA1GDbh4
+2024-08-07T06:50:41.251Z info: Order created: order_Ohut4KhnFz1HnY
+2024-08-07T06:51:45.224Z info: Order created: order_OhuuCQbEwK0OCY
+2024-08-07T06:52:38.338Z info: Order created: order_Ohuv8Oaa9BFO16
+2024-08-07T07:14:16.448Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T07:14:16.457Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T07:14:21.404Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T07:14:21.416Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T07:31:51.989Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T07:31:52.003Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T07:35:56.578Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T07:35:56.591Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T07:36:50.063Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T07:36:50.071Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T07:37:46.877Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T07:37:46.891Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T07:38:59.177Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T07:38:59.189Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T07:39:19.280Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T07:39:19.290Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T07:39:19.327Z error: server.js
+2024-08-07T07:39:46.446Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T07:39:46.456Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T07:39:46.479Z error: server.js
+2024-08-07T07:42:18.420Z error: Error creating order: Unknown column 'updatedAt' in 'field list'
+2024-08-07T07:42:54.161Z error: Error creating order: Unknown column 'updatedAt' in 'field list'
+2024-08-07T07:48:06.549Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T07:48:06.562Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T07:48:06.596Z error: server.js
+2024-08-07T08:11:54.495Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T08:11:54.501Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T08:11:54.516Z error: server.js
+2024-08-07T08:12:10.830Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T08:12:10.837Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T08:12:10.854Z error: server.js
+2024-08-07T08:12:31.377Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T08:12:31.382Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T08:12:31.396Z error: server.js
+2024-08-07T08:13:02.936Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T08:13:02.943Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T08:13:02.961Z error: server.js
+2024-08-07T08:13:11.505Z info: App running on port 5000...
+2024-08-07T08:13:37.751Z error: Error creating order: Unknown column 'updatedAt' in 'field list'
+2024-08-07T09:54:50.272Z info: App running on port 5000...
+2024-08-07T09:55:05.945Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T09:55:05.951Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T09:55:05.966Z error: server.js
+2024-08-07T09:55:32.893Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T09:55:32.900Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T09:55:32.912Z error: server.js
+2024-08-07T09:59:48.857Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T09:59:48.864Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T09:59:48.881Z error: server.js
+2024-08-07T10:00:03.948Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T10:00:03.953Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T10:00:03.970Z error: server.js
+2024-08-07T10:00:13.966Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T10:00:13.972Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T10:00:13.984Z error: server.js
+2024-08-07T10:00:26.125Z info: "server.js","sequelize()","Connected to DB."
+2024-08-07T10:00:26.132Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-07T10:00:26.153Z error: server.js
+2024-08-07T10:01:18.810Z info: App running on port 5000...
+2024-08-07T10:02:04.101Z info: Order created: order_Ohy9EjU1XILGZo
+2024-08-07T10:03:37.189Z info: Order verified: order_Ohy9EjU1XILGZo
+2024-08-07T10:04:48.068Z info: Order created: order_OhyC7jZTyZ83H1
+2024-08-08T04:53:05.362Z info: App running on port 5000...
+2024-08-08T05:42:50.129Z info: Order created: order_OiIGWlBuD7bqEc
+2024-08-08T05:56:16.936Z info: App running on port 5000...
+2024-08-08T08:13:51.627Z info: App running on port 5000...
+2024-08-08T08:34:31.562Z info: Order created: order_OiLBuprwgDJUfQ
+2024-08-08T09:55:07.646Z info: App running on port 5000...
+2024-08-08T10:01:12.574Z info: Order created: order_OiMfT2N3aaAyVs
+2024-08-08T10:03:02.215Z info: Order created: order_OiMhOmAGxK3Xu2
+2024-08-08T10:04:21.336Z info: Order created: order_OiMin8YqV9pSqp
+2024-08-08T10:05:13.813Z info: Order verified: order_OiMin8YqV9pSqp
+2024-08-08T10:14:39.217Z info: App running on port 5000...
+2024-08-08T10:14:52.952Z info: "server.js","sequelize()","Connected to DB."
+2024-08-08T10:14:52.961Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-08T10:14:52.991Z error: server.js
+2024-08-08T10:18:15.848Z info: App running on port 5000...
+2024-08-08T10:18:15.853Z info: "server.js","sequelize()","Connected to DB."
+2024-08-08T10:18:15.855Z error: "server.js","unexpectedErrorHandler()","listen EADDRINUSE: address already in use :::5000"
+2024-08-08T10:21:54.869Z info: App running on port 5000...
+2024-08-08T10:23:53.625Z info: Order created: order_OiN3QkI5uURSY5
+2024-08-08T10:53:59.753Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T10:54:03.971Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T10:54:10.240Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T10:54:18.060Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T10:54:20.111Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T10:55:11.344Z error: Error creating order: undefined
+2024-08-08T10:55:12.885Z error: Error creating order: undefined
+2024-08-08T11:02:06.649Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:02:08.170Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:02:09.040Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:02:09.693Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:02:09.913Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:02:12.131Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:02:13.335Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:02:13.561Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:02:17.210Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:02:17.793Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:02:18.010Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:03:48.078Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:03:50.402Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:03:52.668Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:03:53.475Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:03:53.659Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:03:53.885Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-08T11:03:56.893Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-09T05:47:33.785Z info: App running on port 5000...
+2024-08-09T06:57:32.696Z info: Order created: order_Oii4ZZkkiluuxm
+2024-08-10T05:54:46.425Z info: Order created: order_Oj5XOZmZsnpnsJ
+2024-08-10T05:59:30.863Z info: App running on port 5000...
+2024-08-10T09:25:24.320Z info: App running on port 5000...
+2024-08-10T09:39:53.172Z info: App running on port 5000...
+2024-08-10T09:40:35.452Z info: App running on port 5000...
+2024-08-10T09:49:46.317Z info: App running on port 5000...
+2024-08-10T09:50:40.030Z info: App running on port 5000...
+2024-08-10T09:53:57.893Z info: App running on port 5000...
+2024-08-10T09:54:07.032Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-10T09:54:53.272Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-10T10:09:30.446Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-10T10:10:43.108Z info: App running on port 5000...
+2024-08-10T10:10:50.487Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-10T10:11:17.399Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-10T10:13:03.133Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-10T10:15:02.425Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-10T10:26:31.591Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-10T10:26:38.601Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-10T10:31:29.997Z info: App running on port 5000...
+2024-08-10T10:32:35.705Z info: Order created: order_OjAGqwRvZxaZPI
+2024-08-11T04:02:11.661Z info: Order created: order_OjS9ZKDEHF4rmw
+2024-08-11T04:02:26.153Z info: App running on port 5000...
+2024-08-11T04:05:02.574Z info: Order created: order_OjSCZtLOGgmBfO
+2024-08-11T04:05:04.881Z info: Order created: order_OjSCcQVhHPEMtL
+2024-08-11T04:09:14.120Z info: Order created: order_OjSH0UQUOWgapg
+2024-08-11T04:10:20.178Z info: Order verified: order_OjSH0UQUOWgapg
+2024-08-12T13:22:46.083Z info: App running on port 5000...
+2024-08-12T14:03:59.598Z info: Order created: order_Ok0wMQPlTXVR3y
+2024-08-12T14:09:40.481Z info: Order created: order_Ok12MJF2dDTek7
+2024-08-12T14:18:02.144Z info: Order created: order_Ok1BC8czmqvfWO
+2024-08-12T14:18:48.505Z info: Order verified: order_Ok1BC8czmqvfWO
+2024-08-13T05:39:10.534Z info: App running on port 5000...
+2024-08-13T07:53:30.248Z info: Order created: order_OkJAAVzBIGNpiB
+2024-08-13T08:09:00.601Z info: App running on port 5000...
+2024-08-13T08:26:32.107Z info: App running on port 5000...
+2024-08-13T09:07:37.956Z info: App running on port 5000...
+2024-08-13T09:12:46.770Z info: App running on port 5000...
+2024-08-13T09:13:38.739Z info: Order created: order_OkKWpe4ZIZuG4e
+2024-08-13T09:16:57.650Z info: Order verified: order_OkKWpe4ZIZuG4e
+2024-08-13T09:19:33.303Z info: Order created: order_OkKd4gTxmLUd3A
+2024-08-13T09:20:24.272Z info: Order verified: order_OkKd4gTxmLUd3A
+2024-08-13T09:35:47.972Z info: Order created: order_OkKuEYfpf0sSjS
+2024-08-13T09:52:47.712Z info: App running on port 5000...
+2024-08-13T09:54:17.681Z info: Order created: order_OkLDlsEnQZ5FoG
+2024-08-13T09:55:00.313Z info: Order verified: order_OkLDlsEnQZ5FoG
+2024-08-13T10:08:40.785Z info: Order created: order_OkLSy0G5igIUaQ
+2024-08-13T10:09:44.266Z info: Order verified: order_OkLSy0G5igIUaQ
+2024-08-13T10:14:50.901Z info: Order created: order_OkLZU0NhLPavWM
+2024-08-13T10:15:44.269Z info: Order verified: order_OkLZU0NhLPavWM
+2024-08-13T11:24:07.655Z info: App running on port 5000...
+2024-08-13T11:24:14.617Z info: "server.js","sequelize()","Connected to DB."
+2024-08-13T11:24:14.623Z info: "server.js","sequelize()","App running on port 5000..."
+2024-08-13T11:24:14.646Z error: server.js
+2024-08-13T11:24:23.068Z info: App running on port 5000...
+2024-08-13T11:43:51.167Z info: Order created: order_OkN5VBUiMBvm6a
+2024-08-13T12:33:51.837Z info: Order created: order_OkNwKYDtkL4C1P
+2024-08-13T12:34:45.318Z info: Order verified: order_OkNwKYDtkL4C1P
+2024-08-14T05:53:57.979Z info: App running on port 5000...
+2024-08-14T06:41:06.299Z info: Order created: order_OkgSoJVLB4Sa4R
+2024-08-14T08:12:34.865Z info: App running on port 5000...
+2024-08-14T08:31:18.216Z info: App running on port 5000...
+2024-08-14T08:39:56.276Z info: App running on port 5000...
+2024-08-14T08:55:17.386Z info: Order created: order_OkikYVShNzWgKU
+2024-08-14T08:57:02.366Z info: Order verified: order_OkikYVShNzWgKU
+2024-08-16T05:51:29.166Z info: App running on port 5000...
+2024-08-16T05:59:41.959Z info: Order created: order_OlSpJTT3iErVCb
+2024-08-16T06:00:20.497Z info: Order verified: order_OlSpJTT3iErVCb
+2024-08-16T06:23:44.858Z info: App running on port 5000...
+2024-08-16T06:48:59.339Z info: App running on port 5000...
+2024-08-16T07:02:47.316Z info: App running on port 5000...
+2024-08-16T07:20:31.847Z info: App running on port 5000...
+2024-08-16T07:20:41.525Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-16T07:20:52.106Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-16T07:21:39.167Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-16T07:21:46.177Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-16T07:22:38.586Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-16T07:23:46.529Z error: Error creating order: notNull Violation: Customer.firstName cannot be null,
+notNull Violation: Customer.lastName cannot be null,
+notNull Violation: Customer.phoneNumber cannot be null,
+notNull Violation: Customer.email cannot be null,
+notNull Violation: Customer.address cannot be null,
+notNull Violation: Customer.city cannot be null,
+notNull Violation: Customer.zipCode cannot be null,
+notNull Violation: Customer.country cannot be null
+2024-08-16T07:24:49.138Z info: Order created: order_OlUHEEiSrdm4xC
+2024-08-16T07:24:59.997Z info: Order created: order_OlUHQ5p7w0Boq8
+2024-08-16T07:35:31.134Z info: App running on port 5000...
+2024-08-16T07:36:31.100Z info: Order created: order_OlUTaSMq02Pz2t
+2024-08-16T07:37:19.586Z info: Order verified: order_OlUTaSMq02Pz2t
+2024-08-16T07:57:26.892Z info: App running on port 5000...
+2024-08-16T07:57:37.764Z info: App running on port 5000...
+2024-08-16T07:59:28.181Z info: Order created: order_OlUrpc62bsFRGt
+2024-08-16T08:00:23.594Z info: Order verified: order_OlUrpc62bsFRGt
+2024-08-16T08:11:54.732Z info: App running on port 5000...
+2024-08-16T08:12:12.826Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:12:16.066Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:12:18.117Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:13:08.842Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:14:43.275Z info: App running on port 5000...
+2024-08-16T08:14:52.835Z info: Order created: order_OlV86v4HOrwURB
+2024-08-16T08:15:38.383Z info: Order verified: order_OlV86v4HOrwURB
+2024-08-16T08:19:26.904Z info: App running on port 5000...
+2024-08-16T08:19:33.757Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:19:36.579Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:19:48.350Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:19:50.437Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:19:51.323Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:19:51.544Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:19:52.535Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:19:52.708Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:20:02.333Z error: Error creating order: notNull Violation: Payment.currency cannot be null
+2024-08-16T08:22:58.025Z info: Order created: order_OlVGeY29zNcoeD
+2024-08-16T08:26:34.581Z info: Order verified: order_OlVGeY29zNcoeD
+2024-08-16T08:29:38.842Z info: Order created: order_OlVNi3wcxrbUJg
+2024-08-16T08:30:25.577Z info: Order verified: order_OlVNi3wcxrbUJg
+2024-08-16T10:06:19.705Z info: App running on port 5000...
+2024-08-16T10:46:25.718Z info: Order created: order_OlXiCN6wWqDa6u
+2024-08-16T10:47:22.055Z info: Order verified: order_OlXiCN6wWqDa6u
+2024-08-16T13:14:38.035Z info: App running on port 5000...
+2024-08-16T13:18:01.025Z info: Order created: order_OlaIKdor76TqgX
+2024-08-16T13:19:10.765Z info: Order verified: order_OlaIKdor76TqgX
+2024-08-17T05:48:45.687Z info: App running on port 5000...
+2024-08-19T04:57:16.140Z info: App running on port 5000...
+2024-08-19T05:28:20.377Z info: Order created: order_OmdtY3OsODwkVA
+2024-08-19T05:29:33.068Z info: Order verified: order_OmdtY3OsODwkVA
+2024-08-20T09:51:07.202Z info: App running on port 5000...
+2024-08-20T09:51:33.867Z info: App running on port 5000...
+2024-08-20T09:53:38.423Z info: Order created: order_On6wvZzydKZPzK
+2024-08-20T09:54:25.927Z info: Order verified: order_On6wvZzydKZPzK
+2024-08-21T12:03:15.778Z info: App running on port 5000...
+2024-08-21T12:11:39.037Z info: Order created: order_OnXpoeUqKQdaUn
+2024-08-21T12:12:20.700Z info: Order verified: order_OnXpoeUqKQdaUn
+2024-08-21T14:18:17.627Z info: App running on port 5000...
+2024-08-23T07:52:56.133Z info: App running on port 5000...
+2024-08-23T09:19:45.999Z info: App running on port 5000...
+2024-08-23T11:56:08.090Z info: App running on port 5000...
+2024-08-24T04:39:48.208Z info: Order created: order_OobjsXzAXqs7Oj
+2024-08-24T04:40:42.201Z info: Order verified: order_OobjsXzAXqs7Oj
+2024-08-24T05:23:03.084Z info: App running on port 5000...
+2024-08-24T05:25:10.683Z info: App running on port 5000...
+2024-08-24T05:29:13.877Z info: App running on port 5000...
+2024-08-24T05:30:11.022Z info: Order created: order_Oocb6KFEEeWM3o
+2024-08-24T05:31:07.001Z info: Order verified: order_Oocb6KFEEeWM3o
+2024-08-24T05:39:50.424Z info: App running on port 5000...
+2024-08-24T05:40:45.120Z info: Order created: order_OocmGa9yQRkFt3
+2024-08-24T05:41:22.784Z info: Order verified: order_OocmGa9yQRkFt3
+2024-08-24T05:46:35.835Z info: App running on port 5000...
+2024-08-25T04:06:17.779Z info: App running on port 5000...
+2024-08-26T11:16:06.012Z info: App running on port 5000...

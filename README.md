@@ -1,3 +1,7 @@
+
+**Outh token for github as password**
+>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
+
 **1:#push project into github**
 > git intit
 > git add .

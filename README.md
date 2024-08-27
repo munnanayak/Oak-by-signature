@@ -38,5 +38,26 @@
 >sudo apt-get install mysql-server -y
 >sudo mysql_secure_installation
 
+9:Install Nginx:
+>sudo apt-get install nginx -y
+
+10: Configure MySQL for Your Application if not created
+sudo mysql -u root -p
+CREATE DATABASE oakhotel_db;
+CREATE USER 'oakhotel_user'@'localhost' IDENTIFIED BY 'your_password';
+GRANT ALL PRIVILEGES ON oakhotel_db.* TO 'oakhotel_user'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+
+11: Clone Your Project from GitHub
+ cd /var/www/
+ git clone https://github.com/SignatureHotels/Oakhotel.git
+cd Oakhotel
+
+12: Set Up the Backend
+cd backend-Oak_hotel
+npm install
+
+
 
 

@@ -88,6 +88,7 @@ sudo cp -r build/* /var/www/html/
 sudo nano /etc/nginx/sites-available/default
 
 **18:Update the Nginx Configuration:**
+
 server {
     listen 80;
     server_name your_domain_or_ip; (if u have a domine)

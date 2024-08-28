@@ -72,8 +72,8 @@ EXIT;
  
  cd /var/www/
  git clone https://github.com/munnanayak/Oak-by-signature.git
-cd Oakhotel
 
+cd Oak-by-signature
 **12: Set Up the Backend**
 cd backend-Oak_hotel
 npm install

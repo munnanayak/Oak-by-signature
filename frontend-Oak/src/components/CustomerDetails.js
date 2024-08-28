@@ -56,7 +56,7 @@ const CustomerDetails = () => {
         breakfastCost: selectedRoomDetails.breakfastCost,
       };
   
-      const { data: { order } } = await axios.post("http://localhost:5000/api/v1/checkout", bookingDetails);
+      const { data: { order } } = await axios.post("http://localhost:8000/api/v1/checkout", bookingDetails);
   
       setOrderId(order.id);
   
@@ -71,14 +71,14 @@ const CustomerDetails = () => {
         handler: async (response) => {
           const { razorpay_payment_id, razorpay_order_id, razorpay_signature } = response;
           try {
-            await axios.post("http://localhost:5000/api/v1/paymentverification", {
+            await axios.post("http://localhost:8000/api/v1/paymentverification", {
               order_id: razorpay_order_id,
               payment_id: razorpay_payment_id,
               signature: razorpay_signature,
             });
   
             // After successful payment verification, create the booking
-            const bookingResponse = await axios.post("http://localhost:5000/api/v1/bookings", {
+            const bookingResponse = await axios.post("http://localhost:8000/api/v1/bookings", {
               customerDetails,
               roomId: selectedRoomDetails.roomId,
               checkInDate: selectedRoomDetails.checkInDate,

@@ -15,6 +15,8 @@
 
 **3: # Create droplet**
 **4: give the ip adress from the droplet in the putty**
+      
+      
       > give it a name and save
      > connetions
      > sshkey
@@ -22,10 +24,14 @@
      > click on open
 
  **5: login as: root**
+
+ 
  give the pass phrase: oak_sshkye
 
 **6: root@ubuntu-s-1vcpu-1gb-blr1-01-oakhotel:~#** 
 **Update the System Packages:**
+
+
 >sudo apt-get update
 >
 >sudo apt-get upgrade -y
@@ -37,13 +43,18 @@
 >sudo apt-get install -y nodejs
 
 **8:Install MySQL Server:**
+
+
 >sudo apt-get install mysql-server -y
 >sudo mysql_secure_installation
 
 **9:Install Nginx:**
+
 >sudo apt-get install nginx -y
 
 **10: Configure MySQL for Your Application if not created**
+
+
 sudo mysql -u root -p
 CREATE DATABASE oakhotel_db;
 CREATE USER 'oakhotel_user'@'localhost' IDENTIFIED BY 'your_password';
@@ -52,6 +63,8 @@ FLUSH PRIVILEGES;
 EXIT;
 
 **11: Clone Your Project from GitHub**
+ 
+ 
  cd /var/www/
  git clone https://github.com/munnanayak/Oak-by-signature.git
 cd Oakhotel
@@ -61,6 +74,8 @@ cd backend-Oak_hotel
 npm install
 
 **13:Create the .env File:**
+
+
 nano .env
 Add the following content to the file, then save and exit (CTRL + O, Enter, CTRL + X)
 DB_HOST=localhost
@@ -73,9 +88,13 @@ RAZORPAY_KEY_SECRET=9ycHwJsnmN7A19PWZPMcWySo
 APP_PORT=5000
 
 **14:Run Database Migrations:**
+
+
 npx sequelize-cli db:migrate
 
 **15:Start the Backend with pm2:**
+
+
 sudo npm install -g pm2
 pm2 start (app/server).js --name backend-Oak_hotel
 pm2 save

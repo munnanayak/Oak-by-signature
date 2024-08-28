@@ -27,11 +27,13 @@
 **6: root@ubuntu-s-1vcpu-1gb-blr1-01-oakhotel:~#** 
 **Update the System Packages:**
 >sudo apt-get update
+>
 >sudo apt-get upgrade -y
 
 
 **7:Install Node.js and npm:**
 >curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+>
 >sudo apt-get install -y nodejs
 
 **8:Install MySQL Server:**

@@ -53,7 +53,7 @@ EXIT;
 
 **11: Clone Your Project from GitHub**
  cd /var/www/
- git clone https://github.com/SignatureHotels/Oakhotel.git
+ git clone https://github.com/munnanayak/Oak-by-signature.git
 cd Oakhotel
 
 **12: Set Up the Backend**

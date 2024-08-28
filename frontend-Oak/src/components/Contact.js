@@ -23,7 +23,7 @@ const ContactPage = () => {
     e.preventDefault();  
 
     try {  
-      const response = await axios.post('http://localhost:5000/api/v1/contact', contactDetails);  
+      const response = await axios.post('http://localhost:8000/api/v1/contact', contactDetails);  
       if (response.status === 201) {  
         alert('Message sent successfully!');  
         setContactDetails({  

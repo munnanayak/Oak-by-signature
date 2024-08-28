@@ -11,7 +11,7 @@
 
 **2:# install puttygen and putty**
 
->pass pharase for SSh key = oak_sshkye
+>pass pharase for SSh key = oak_sshkey
 
 **3: # Create droplet**
 **4: give the ip adress from the droplet in the putty**

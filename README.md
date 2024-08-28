@@ -5,7 +5,7 @@
 **1:#push project into github**
 > git intit
 > git add .
-> git remote set-url origin https://github.com/SignatureHotels/Oakhotel.git
+> git remote set-url origin https://github.com/munnanayak/Oak-by-signature.git
 > git commit -m "Initial commit"
 > git push -u origin master
 
